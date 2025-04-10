@@ -456,7 +456,7 @@ namespace WeatherApp
             lab_tdgio.Location = new Point(200, 190);     // Vị trí cho tốc độ gió
             lab_doam.Location = new Point(200, 230);      // Vị trí cho độ ẩm
 
-            lab_apsuat.Location = new Point(270, 270);    // Vị trí cho áp suất
+            lab_apsuat.Location = new Point(270, 270);    
             lab_giogiat.Location = new Point(200, 360);   // Vị trí cho gió giật
             lab_luongmua.Location = new Point(200, 310);  // Vị trí cho lượng mưa
 
