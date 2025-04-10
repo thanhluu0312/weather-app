@@ -48,7 +48,7 @@ namespace WeatherApp
                 MessageBox.Show($"Lỗi khi lấy dữ liệu thời tiết: {ex.Message}");
             }
         }
-
+//
         public void displayWeather()
         {
             temperatureLabel1.Location = new Point(50, 266);
@@ -63,7 +63,7 @@ namespace WeatherApp
 
 
 
-
+//
             temperatureLabel31.Font = new Font(temperatureLabel31.Font.FontFamily, 16, FontStyle.Bold);
             temperatureLabel31.BackColor = Color.Transparent;
             temperatureLabel31.ForeColor = Color.Red;
